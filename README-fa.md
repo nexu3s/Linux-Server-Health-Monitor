@@ -1,4 +1,3 @@
-```markdown
 <div dir="rtl">
 
 > 🇬🇧 **[Read this documentation in English](README.md)**
